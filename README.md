@@ -25,7 +25,7 @@ Iconify Icons.
 Welcome → Categories → Food Items → Cart → Order Confirmation.
 
 ## Prototype Link
-https://www.figma.com/proto/YZwRpWRm3itDXwRemh2WVd/Untitled?node-id=0-1&t=NVMQ05B57fGO6yVN-1
+https://www.figma.com/proto/YZwRpWRm3itDXwRemh2WVd/Untitled?node-id=0-1&t=sjYffV78XfiNRwg2-1
 
 
 
